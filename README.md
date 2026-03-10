@@ -5,12 +5,14 @@
 
 ### Creators : Michael Watson, Nathan Kinsey, & Marshall Lampitt
 
+___
 Documentation files included for Iteration 1 
 
-- Personas - Boomer , Millennial, GenZ
+
+-  Personas - Boomer , Millennial, Gen Z
 
 - Persona reviews 
 
-- Stakeholder Redustr
+- Stakeholder Register
 
 - Meeting minutes - 25.feb, 4.mar, 11.mar
