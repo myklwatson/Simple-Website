@@ -10,7 +10,7 @@
 **Location:** EIT Campus, Taradale, A412  
 
 **Sponsor:** John Jamieson  
-**Group Name:** e.g. Android 17  
+**Group Name:** Android 17  
 **Group Lead:** Michael Watson  
 **Note Taker:** Nathan Kinsey  
 
