@@ -30,7 +30,7 @@
 ## Agenda Items
 
 - Stakeholder Register  
-- Project Charter  
+ 
 
 ---
 
