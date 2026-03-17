@@ -57,7 +57,7 @@ A review file needs to be created, and each group member will be assigned a pers
 | Action | Person Responsible | Deadline |
 |--------|-------------------|----------|
 | Create Review Document | Nathan Kinsey | EOD 11/03/26 |
-| Review Persons | All Members | EOD 15/03/26 |
+| Review Personas | All Members | EOD 15/03/26 |
 | Covert Files to md and upload | Michael Watson | 17/03/26 |
 
 
