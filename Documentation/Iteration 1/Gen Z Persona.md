@@ -1,6 +1,6 @@
 # Persona – Gen Z
 
-![Emily Jones Persona](https://github.com/myklwatson/Simple-Website/blob/master/Documentation/Iteration%201/GEN-Z%20HEADSHOT.jpg)
+![Emily Jones Persona](https://github.com/myklwatson/Simple-Website/blob/master/Documentation/Iteration%201/images/GEN-Z%20HEADSHOT.jpg)
 
 Image Source:  
 DoubleAnti. (2021, July 2). Attractive female model with Afro…

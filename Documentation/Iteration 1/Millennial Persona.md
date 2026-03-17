@@ -1,6 +1,6 @@
 # Persona – Millennial
 
-![Jeff Fisher Persona](https://github.com/myklwatson/Simple-Website/blob/master/Documentation/Iteration%201/MILLENNIAL%20HEADSHOT.jpg)
+![Jeff Fisher Persona](https://github.com/myklwatson/Simple-Website/blob/master/Documentation/Iteration%201/images/MILLENNIAL%20HEADSHOT.jpg)
 
 Image Source:  
 Wise, E. (2020). man in gray sweater sitting beside black and white border collie. Unsplash. 

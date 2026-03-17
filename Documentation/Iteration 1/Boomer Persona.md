@@ -1,6 +1,6 @@
 # Persona – Baby Boomer
 
-![Fred Turner Persona](https://github.com/myklwatson/Simple-Website/blob/master/Documentation/Iteration%201/BOOMER%20HEADSHOT.jpg)
+![Fred Turner Persona](https://github.com/myklwatson/Simple-Website/blob/master/Documentation/Iteration%201/images/BOOMER%20HEADSHOT.jpg)
 
 Image Source:  
 Jaszowska, M. (2023).
