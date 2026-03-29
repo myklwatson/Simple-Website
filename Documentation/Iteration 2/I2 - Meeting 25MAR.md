@@ -80,7 +80,7 @@ Brainstorm and then meeting to complete resource needs template.
 |----------------------------------------------|-------------------|-------------------|
 | Setup Template | Michael Watson    | 30th Mar 2026     |
 | Meet to Complete   | All Members   | 30th Mar 2026              |
-|Converty to md and upload | Nathan Kinsey | 1st Apr 2026 |
+| Convert to md and upload | Nathan Kinsey | 1st Apr 2026 |
 
 ---
 
