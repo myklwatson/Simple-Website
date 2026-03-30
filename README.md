@@ -23,4 +23,3 @@ Documentation files included for Iteration 2
 - Meeting minutes - 18.mar
 
 
-test
