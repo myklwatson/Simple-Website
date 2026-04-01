@@ -80,7 +80,7 @@ Further develop resource needs from current draft state
 |----------------------------------------------|-------------------|-------------------|
 | Discuss Resource Needs | All Members    | 5th Apr 2026     |
 | Updating Resource Needs to include devices   | All Members   | 5th Apr 2026              |
-| Insure Resource Needs and Gantt Chart are aligned | All Members | 5th Apr 2026 |
+| Ensure Resource Needs and Gantt Chart are aligned | All Members | 5th Apr 2026 |
 
 ---
 
