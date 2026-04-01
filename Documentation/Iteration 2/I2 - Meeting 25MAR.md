@@ -56,7 +56,7 @@ KanBan tasks to be entered.
 | Action Item                         | Person Responsible | Deadline            |
 |------------------------------------|-------------------|--------------------|
 | Maintain KanBan clarity  | Nathan Kinsey    | Ongoing  |
-| Discuss  Action Items to add       | All Members    |  1st Apr 2026 2026      |
+| Discuss  Action Items to add       | All Members    |  1st Apr 2026      |
 | Add Tasks to KanBan           | All Members      | 1st Apr 2026  |
 
 ---
