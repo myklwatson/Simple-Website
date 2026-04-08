@@ -20,6 +20,10 @@ Documentation files included for Iteration 1
 ---
 Documentation files included for Iteration 2
 
-- Meeting minutes - 18.mar
+- Meeting minutes - 18.mar, 25.mar, 1.apr 
+
+- Resource Needs
+
+- Gantt Chart
 
 
