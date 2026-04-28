@@ -1,4 +1,4 @@
-### Agile Projects Iteration 1 Progress Report
+### Agile Projects Iteration 2 Progress Report
 **Group:** Android 17
 **Group Members:** Marshall Lampitt, Michael Watson, Nathan Kinsey
 **GitHub Repository: https://github.com/myklwatson/Simple-Website**
