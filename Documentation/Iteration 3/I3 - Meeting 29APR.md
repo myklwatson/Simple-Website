@@ -55,7 +55,7 @@ Update readme markdown documentation to include iteration 3.
 
 | Action Item                         | Person Responsible | Deadline            |
 |------------------------------------|-------------------|--------------------|
-| Create new folder  | Nathan Kinsey   | 30th March 2026 |
+| Create new folder  | Nathan Kinsey   | 30th April 2026 |
 | KanBan       |  Marshall Lampitt   |    EOW   |
 |    Ensuring Git stablity        |    All Members   | Ongoing  |
 
