@@ -12,7 +12,7 @@
 **Sponsor:** John Jamieson  
 **Name of Group:** Android 17  
 **Group Lead:** Michael Watson  
-**Note Taker:** Marshall Lampit 
+**Note Taker:** Marshall Lampitt 
 
 **Attendees:**  
 - Michael Watson  
