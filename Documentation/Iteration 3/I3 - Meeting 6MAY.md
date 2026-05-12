@@ -29,9 +29,9 @@
 
 ## Agenda Items
 
-- website uploading   
-- Verify Git stability
-- Git pages / web publish
+- Website Files Upload   
+- GitHub / Repo Stability
+- GitHub Pages - Publish Website
  
 
 ---
@@ -40,45 +40,47 @@
 
 ---
 
-## Agenda Item 1: Website uploading
+## Agenda Item 1: Website Files Upload
 **Presenter: Nathan Kinsey** 
 
 ### Discussion
-for this itteration we need to upload some files to the website. we will divey this up to seprit people and each persion will get a seprit set of files. marshall will upload the insihle files to the git hub. evreyone else will do the other uploads to the github. in the folders there are 4 members for intergrate files folder. nathan will handle the eddits to the member 1 folder. marshall will handle files in member 2 and 3 folders. michle will handle files in member 4
+For Iteration 3 we need to upload files to complete the website as part of the delivered product fro this project. We will divide this work up amongst team members and each persion will get specific files to edit and update. Marshall is in charge of uploading the initial files to the git hub repository. Everyone else will do the other uploads to the github. In the folders there are 4 members for the website files, as we are only three members we will assign accordingly.  Nathan will handle edits to the member 1 folder - primarily the index.html and configuration files. Marshall will handle html files in members 2 and 3 folders. Leaving Michael to handle files in the member 4 folder.
 
 ### Conclusions
-- marshall to upload full file system for website.
-- each member to make changes
+- Marshall to upload full files system for website.
+- Each member to then make changes
 
 ### Action Items
 
 | Action Item                         | Person Responsible | Deadline            |
 |------------------------------------|-------------------|--------------------|
-| Upload website files  | Marshall lampitt   | EOD  06 MAY |
-| Apply changes to assighned files       |  All Members  |    EOW   |
+| Upload website files  | Marshall Lampitt   | EOD  06 MAY |
+| Apply changes to assigned files       |  All Members  |    EOW   |
 
 
 ---
 
-## Agenda Item 2: Verify Git stability
+## Agenda Item 2: Github / Repo Stability
 
 **Presenter: Marshall Lampitt** 
 
 ### Discussion
-we need to make sure all our files are sorted in the right structure so that they will run corectley in the github pages. id say we allso would want to have a floaw to it so any outside partey can easiley understand and navagate the file structure at a glance. check for any isues such as(duplication in files, check spelling, check dates where acurit, formating the files for clarity).
+We need to make sure all our files are sorted in the right structure so that they will run correctly for use in GitHub pages, as well as confirming all files for the delivery of the project at end of Iteration 3. 
+We want to have a good flow to the documentation, so any outside party can easily understand and navigate the file structure at a glance. 
+Also need to check for any issues such as duplication in files, check spelling, check date are accurate, formating the files for clarity where needed.
 
 ### Conclusions
-- insure spelling comprohensible 
+- ensure spelling and document comprehension
 - check for duplications and resolve 
-- insure files are propley formated 
+- ensure files are properly formatted 
 
 ### Action Items
 
-| Action Item                                   | Person Responsible | Deadline           |
+| Action Item       | Person Responsible     | Deadline  |
 |----------------------------------------------|-------------------|-------------------|
-| check itteration 1 |   Marshall lampitt  | EOD    |
-| check itteration 2 | Nathan kinsy        | EOW    |
-| check itteration 3 | Michael Watson      | EOW    |
+| Check Iteration 1 |   Marshall Lampitt     | EOD    |
+| Check Iteration 2 |   Nathan Kinsey        | EOW    |
+| Check Iteration 3 |    Michael Watson      | EOW    |
 
 ---
 
@@ -87,7 +89,9 @@ we need to make sure all our files are sorted in the right structure so that the
 **Presenter: Michael Watson** 
 
 ### Discussion
- so once we conferm the acuricey and compleation of website files in github or files we then need to ualise the github pages to publish our website so that we cal latter do user testing.
+Once we confirm the accuracy and completion of website file edits in github.
+We then need to utilise GitHub pages to publish our website in order to do user testing required as one of the last steps of our project.
+
 ### Conclusions
 - check website files 
 - publish through github pages
@@ -96,8 +100,8 @@ we need to make sure all our files are sorted in the right structure so that the
 
 | Action Item              | Person Responsible | Deadline          |
 |--------------------------|-------------------|------------------|
-| Check website files    |  Nathan Kinsey & Marshall lampitt  |    13th MAY 2026    |
-| Publish through github pages    | Michal Watson   |   13th MAY 2026   |
+| Check Website Files    |  Nathan Kinsey & Marshall Lampitt  |    13th MAY 2026    |
+| Publish through GitHub pages    | Michal Watson   |   13th MAY 2026   |
 
 
 ---

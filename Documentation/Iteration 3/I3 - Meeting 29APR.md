@@ -44,12 +44,13 @@
 **Presenter: Nathan Kinsey** 
 
 ### Discussion
-We will need to create a new folder in our git repository for our iteration 3 same as past iterations. Along with this, we need to ensure everyone understands the tasks required this iteration.
+We will need to create a new folder in our git repository for our Iteration 3 same as past iterations. Along with this, we need to ensure everyone understands the tasks required this iteration.
 We need to update the KanBan with the action items required for iteration 3 from the gantt chart.
 Update readme markdown documentation to include iteration 3.
 
 ### Conclusions
 - Create iteration 3 folder on git repo
+- Update Readme.md file
 
 ### Action Items
 
@@ -57,7 +58,7 @@ Update readme markdown documentation to include iteration 3.
 |------------------------------------|-------------------|--------------------|
 | Create new folder  | Nathan Kinsey   | 30th April 2026 |
 | KanBan       |  Marshall Lampitt   |    EOW   |
-|    Ensuring Git stablity        |    All Members   | Ongoing  |
+| Ensuring Git Stablity        |    All Members   | Ongoing  |
 
 ---
 
@@ -72,15 +73,15 @@ We need to look at scheduling, attendence, resources, connection issues, etc.
 ### Conclusions
 - Research risk register
 - Discuss risk register
-- Set a time to review our decision
+- Set a time to review our decisions
 
 ### Action Items
 
 | Action Item                                   | Person Responsible | Deadline           |
 |----------------------------------------------|-------------------|-------------------|
-| Research risk register |  All Members   | 6th May 2026     |
-|  Discuss risk register  | All Members   |   6th May 2026             |
-| Set review time | All Members | 6th May 2026  |
+| Research Risk Register |  All Members   | 6th May 2026     |
+| Discuss Risk Register  | All Members   |   6th May 2026             |
+| Set Review Time | All Members | 6th May 2026  |
 
 ---
 
@@ -89,7 +90,7 @@ We need to look at scheduling, attendence, resources, connection issues, etc.
 **Presenter: Michael Watson** 
 
 ### Discussion
-We need to complete this weeks task, uploading the image in our git. The issue is we already have an images folder in our documentation. We need to ensure this is done by next meeting and we meet all the requirements. Michael suggests someone other than him upload these images. 
+We need to complete this weeks task, uploading the images into our git repo. The issue is we already have an images folder in our documentation. We need to ensure this is done by next meeting and we meet all the requirements. Michael suggests someone other than him upload these images, to make sure an even distribution of activities is documented. 
 
 ### Conclusions
 - Check over git repo and images folder
@@ -100,7 +101,7 @@ We need to complete this weeks task, uploading the image in our git. The issue i
 | Action Item              | Person Responsible | Deadline          |
 |--------------------------|-------------------|------------------|
 | Git repo check  |  Nathan Kinsey  |    6th May 2026  |
-|  Upload images to git repo | Marshall Lampitt   |   6th May 2026   |
+| Upload images to git repo | Marshall Lampitt   |   6th May 2026   |
 
 
 ---
