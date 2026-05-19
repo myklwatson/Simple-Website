@@ -27,10 +27,10 @@ Documentation files included for Iteration 2
 - Gantt Chart
 ---
 Documentation files included for Iteration 3
-- Meeting minutes - 29.apr, 6.may, .13.may
+- Meeting minutes - 29.apr, 6.may, 13.may
 
-- risk register
+- Risk Register
 
-- user testing 
+- User Testing 
 
 
