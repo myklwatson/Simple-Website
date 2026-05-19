@@ -101,7 +101,7 @@ We then need to utilise GitHub pages to publish our website in order to do user 
 | Action Item              | Person Responsible | Deadline          |
 |--------------------------|-------------------|------------------|
 | Check Website Files    |  Nathan Kinsey & Marshall Lampitt  |    13th MAY 2026    |
-| Publish through GitHub pages    | Michal Watson   |   13th MAY 2026   |
+| Publish through GitHub pages    | Michael Watson   |   13th MAY 2026   |
 
 
 ---
