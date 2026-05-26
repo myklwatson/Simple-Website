@@ -3,6 +3,8 @@
 **Group Members:** Marshall Lampitt, Michael Watson, Nathan Kinsey
 **GitHub Repository: https://github.com/myklwatson/Simple-Website**
 
+
+**Live Website Link** https://myklwatson.github.io/Simple-Website/
 ---
 
 
