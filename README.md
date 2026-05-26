@@ -31,6 +31,10 @@ Documentation files included for Iteration 3
 
 - Risk Register
 
-- User Testing 
+- User Acceptance Testing 
 
+---
 
+**Completed KanBan below**
+
+![KanBan view](https://github.com/myklwatson/Simple-Website/blob/master/Documentation/KanBan.png)
